@@ -9,7 +9,7 @@ Bienvenidos al fascinante mundo de las **criaturas fantásticas**. A lo largo de
 
 ---
 
-![Dragón de Fuego](https://example.com/dragon.jpg)
+![Dragón de Fuego]([https://example.com/dragon.jpg](https://raw.githubusercontent.com/dopemmanuel/DAM_2024_2025/refs/heads/main/DALL·E%202024-09-30%2002.15.35%20-%20A%20majestic%20fire-breathing%20dragon%20soaring%20through%20the%20sky%2C%20with%20enormous%20wings%20that%20stretch%20wide.%20The%20dragon%20has%20red%20scales%20and%20its%20eyes%20glow%20with%20an%20i.webp))
 
 ### El Dragón de Fuego
 El **dragón de fuego** es un ser imponente que domina el cielo con sus alas gigantescas. Se dice que su aliento puede incendiar un bosque entero. Algunas leyendas sugieren que estos dragones guardan secretos ancestrales de la creación del mundo.
