@@ -1,5 +1,4 @@
 # ㄟ( ▔, ▔ )ㄏ
 ## Probando para organizar las actividades...
 ### Alguien mas esta leyeno esto...
-
-**[Testeando con esto](Testing.md)**
+[Testeando con esto](Testing.md)
